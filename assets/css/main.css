@@ -2272,10 +2272,18 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
+
+
 .skill-items {
   display: flex;
+  width: 100%;
+  flex-wrap: wrap;
 }
 
+.skill-items li {
+  list-style: none;
+  margin: 15px;
+}
 .devicon {
   font-size: 8em;
 }
