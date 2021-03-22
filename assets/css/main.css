@@ -2271,3 +2271,11 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+.skill-items {
+  display: flex;
+}
+
+.devicon {
+  font-size: 8em;
+}
