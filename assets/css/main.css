@@ -2201,11 +2201,12 @@ button,
       max-height: 50vh; } }
 
 /* Footer */
-#footer .copyright {
+
+#footer p {
   color: #9fa3a6;
   font-size: 0.9em; }
-  #footer .copyright a {
-    color: inherit; }
+#footer .copyright a {
+  color: inherit; }
 
 /* Menu */
 #menu ul {
